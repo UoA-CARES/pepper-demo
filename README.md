@@ -1,16 +1,16 @@
 # pepper-demo
 ## Daily Use
 Here are gathered key points to interact with Pepper:
-- [Turning Pepper on](./aldeb-doc-2.5.11.14/family/pepper_user_guide/turn_on_pep.html)
-- [Interacting with Pepper](./aldeb-doc-2.5.11.14/family/pepper_user_guide/interacting_pep.html)
-- [Launching / exiting an Activity](./aldeb-doc-2.5.11.14/family/pepper_user_guide/activity_pep.html)
-- [Putting Pepper to sleep](./aldeb-doc-2.5.11.14/family/pepper_user_guide/sleep_pep.html)
-- [Switching Autonomous life on and off](./aldeb-doc-2.5.11.14/family/pepper_user_guide/freeze_pep.html)
-- [Turning Pepper off](./aldeb-doc-2.5.11.14/family/pepper_user_guide/turn_off_pep.html)
-- [Requesting technical information](./aldeb-doc-2.5.11.14/family/pepper_user_guide/request_pep.html)
-- [Charging the battery](./aldeb-doc-2.5.11.14/family/pepper_user_guide/battery-charging_pep.html)
+- [Turning Pepper on](http://doc.aldebaran.com/2-5/family/pepper_user_guide/turn_on_pep.html)
+- [Interacting with Pepper](http://doc.aldebaran.com/2-5/family/pepper_user_guide/interacting_pep.html)
+- [Launching / exiting an Activity](http://doc.aldebaran.com/2-5/family/pepper_user_guide/activity_pep.html)
+- [Putting Pepper to sleep](http://doc.aldebaran.com/2-5/family/pepper_user_guide/sleep_pep.html)
+- [Switching Autonomous life on and off](http://doc.aldebaran.com/2-5/family/pepper_user_guide/freeze_pep.html)
+- [Turning Pepper off](http://doc.aldebaran.com/2-5/family/pepper_user_guide/turn_off_pep.html)
+- [Requesting technical information](http://doc.aldebaran.com/2-5/family/pepper_user_guide/request_pep.html)
+- [Charging the battery](http://doc.aldebaran.com/2-5/family/pepper_user_guide/battery-charging_pep.html)
 
-For more information, please visit [here](./aldeb-doc-2.5.11.14/family/pepper_user_guide/interacting.html).
+For more information, please visit [here](http://doc.aldebaran.com/2-5/family/pepper_user_guide/interacting.html).
 
 ## Run Demos
 1. Turn pepper on
@@ -51,3 +51,16 @@ Download [pynaoqi-python2.7-2.5.7.1-linux64](https://drive.google.com/file/d/1ZW
 
 
 
+```
+conda create -n pepper27 python=2.7
+conda activate pepper27
+```
+
+unzip the Pynaoqi-2.5.7.1 into userhome
+
+```
+export PYTHONPATH=${PYTHONPATH}:~/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages
+```
+
+
+http://doc.aldebaran.com/qibuild/beginner/getting_started.html
