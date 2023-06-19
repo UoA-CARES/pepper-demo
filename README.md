@@ -4,6 +4,24 @@ Read the Pepper Documentation [here](http://doc.aldebaran.com/2-5/home_pepper.ht
 
 # Important Notice
 
+## Booking
+To utilize Pepper, please follow the steps below:
+
+1. Access the provided [Google Sheet](https://docs.google.com/spreadsheets/d/1A1fpoGiZkxSSyUQTw30FwyKJTGMPZquZ3-cTsPa1pf4/edit?usp=sharing).
+2. Fill in your name, date/time of usage, return date/time, and any additional notes.
+3. Additionally, if you encounter any issues while using Pepper, please promptly report them in the designated section of the Google Sheet. Your feedback is valuable in ensuring the optimal performance and functionality of Pepper for all users.
+
+Thank you for your cooperation in using Pepper effectively.
+
+To use Pepper, please follow the steps below:
+
+
+2. Locate the booking section.
+
+4. Submit the form to secure your booking.
+
+Note: Ensure that you adhere to the booking process and provide accurate information to facilitate a smooth experience for everyone interested in using Pepper.
+
 ## Pepper's head 
 After usage, please ensure to turn off Pepper completely and position its head in an upright position. Failure to do so may result in damage to Pepper's neck.
 
