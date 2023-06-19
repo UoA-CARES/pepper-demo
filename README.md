@@ -32,11 +32,44 @@ To access further information, kindly visit [this link](http://doc.aldebaran.com
 
 Follow these steps to run demos with Pepper:
 
-1. Turn on Pepper.
+## Turn on the Pepper
+1. Press the button on chest.
 2. Wait for Pepper to finish the initialization motion.
 3. Touch the tablet located on Pepper's chest.
 4. Select the desired app to demonstrate.
 
+<img src='images/pepper_turn_on.gif' height='200'>
+
+## Demo 1: Date Dance
+To enjoy a dance performance with Pepper:
+1. Interact with the tablet located on Pepper's chest to access the applications.
+2. Locate and choose the 'Date Dance' option to initiate the dance with music.
+
+<img src='images/pepper_demo_1.gif' height='200'>
+
+## Demo 2: Story
+Pepper engages in storytelling using expressive gestures.
+1. Interact with the tablet located on Pepper's chest to access the applications.
+2. Locate and choose the 'Three Muske..' option to initiate the dance with music.
+
+<img src='images/pepper_demo_2.gif' height='200'>
+
+## Demo 3: Tickle Pepper
+Pepper responds to interactions by tickling the tablet.
+1. Interact with the tablet located on Pepper's chest to access the applications.
+2. Locate and choose the 'Tickle Pepper' option to initiate the dance with music.
+
+<img src='images/pepper_demo_3.gif' height='200'>
+
+## Turn off Pepper
+Press and hold the Chest Button for 3 seconds, until the robot says “GNUK GNUK”. The shutdown process is completed when all the LEDs are off.
+
+## Move Pepper
+To prepare Pepper for transportation to the demonstration area:
+
+1. Power off Pepper completely and disconnect the charger cable.
+2. Ensure Pepper's head is in an upright position.
+3. Carefully push Pepper or use a trolley to transport it to the demonstration place.
 
 # For developers
 Read the NAOqi documentation [here](http://doc.aldebaran.com/2-5/index_dev_guide.html)
