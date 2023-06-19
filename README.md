@@ -59,14 +59,14 @@ To enjoy a dance performance with Pepper:
 ## Demo 2: Story
 Pepper engages in storytelling using expressive gestures.
 1. Interact with the tablet located on Pepper's chest to access the applications.
-2. Locate and choose the 'Three Muske..' option to initiate the dance with music.
+2. Locate and choose the 'Three Muske..' option to initiate the storytelling app.
 
 <img src='images/pepper_demo_2.gif' height='200'>
 
 ## Demo 3: Tickle Pepper
 Pepper responds to interactions by tickling the tablet.
 1. Interact with the tablet located on Pepper's chest to access the applications.
-2. Locate and choose the 'Tickle Pepper' option to initiate the dance with music.
+2. Locate and choose the 'Tickle Pepper' option to initiate the tickling app.
 
 <img src='images/pepper_demo_3.gif' height='200'>
 
